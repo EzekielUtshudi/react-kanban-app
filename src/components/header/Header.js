@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import logo from '../../logo.png';
+import logo from './logo.png';
 
 const Header = () => (
   <header className="h-16 w-[calc(100% - 6rem)] flex flex-row justify-between items-center my-6 mx-12 border-b-2 border-black pb-4">
