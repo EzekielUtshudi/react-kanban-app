@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders correctly in the DOM 1`] = `
+<button
+  className="rounded min-w-fit capitalize "
+  id="button-id"
+  onClick={[Function]}
+  type="button"
+/>
+`;
