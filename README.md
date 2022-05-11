@@ -20,7 +20,7 @@ The Space Travelers' Hub consists of Rockets, Missions, and the My Profile secti
 
 
 
-## [Live Demo - Netlify]()
+## [Live Demo - Netlify](https://inquisitive-figolla-4afd8a.netlify.app/#/profile)
 <!-- ## [Live Demo ]() -->
 
 ## Built With
