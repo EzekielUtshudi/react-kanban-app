@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@Header Mission Navigation 1`] = `
+"Snapshot Diff:
+Compared values have no visual difference."
+`;
+
+exports[`@Header Profile Navigation 1`] = `
+"Snapshot Diff:
+Compared values have no visual difference."
+`;
+
+exports[`@Header Rocket Navigation 1`] = `
+"Snapshot Diff:
+Compared values have no visual difference."
+`;

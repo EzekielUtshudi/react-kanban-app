@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge renders correctly in the DOM 1`] = `
+<div
+  className="rounded-lg min-w-fit uppercase "
+  data-testid="badge"
+/>
+`;
