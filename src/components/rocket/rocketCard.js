@@ -24,8 +24,8 @@ const RocketCard = ({
         </div>
         <Button
           id={id}
-          twClasses={`${reservaton ? 'bg-gray-400' : 'bg-sky-500'} text-white mt-2 border-2 text-lg font-medium w-fit px-2 py-1`}
-          text="Reserve Rocket"
+          twClasses={`${reservaton ? 'bg-red-400' : 'bg-sky-500'} text-white mt-2 border-2 text-lg font-medium w-fit px-2 py-1`}
+          text={reservaton ? 'Cancel Reservation' : 'Reserve Rocket'}
           handleClick={onButtonPressed}
           type="button"
         />
